@@ -46,14 +46,8 @@ blood-donation-website/
    git clone https://github.com/yourusername/blood-donation-website.git
 Open index.html in any web browser.
 
-🌐 Live Demo
-🔗 Click here to view live site (Add your GitHub Pages/Netlify link here once deployed)
-
 🤝 Contributing
 Contributions are welcome! Feel free to fork the project and submit a pull request.
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 💡 Author
 Mali Sreeja Reddy
